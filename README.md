@@ -2,4 +2,6 @@
 Chrome Dinosaur game played by python bot
 
 # Requirements
-'''pip install pyscreenshot'''
+'''python
+pip install pyscreenshot
+'''
