@@ -3,9 +3,9 @@ Chrome Dinosaur game played by python bot
 
 # Requirements
 
-pip install pyscreenshot
-pip install pillow
-pip install keyboard
+pip install pyscreenshot \n
+pip install pillow \n
+pip install keyboard \n
 
 download chromedriver using this link 
 [chromedriver](https://chromedriver.storage.googleapis.com/index.html?path=75.0.3770.8/) and place the excecutable file in path where dinobot.py is located.
