@@ -4,11 +4,7 @@ Chrome Dinosaur game played by python bot
 # Requirements
 ```
 pip install pyscreenshot
-```
-```
 pip install pillow 
-```
-```
 pip install keyboard 
 ```
 download chromedriver using this link 
